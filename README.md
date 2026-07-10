@@ -1,5 +1,7 @@
 # Cofre Inteligente (Smart Piggy Bank)
 
+![Funcionamento do Cofre Inteligente](demonstracao.gif)
+
 ## Sobre o Projeto
 Projeto de hardware e software desenvolvido para simular o funcionamento de um cofre inteligente. A arquitetura inicial e a validação lógica foram realizadas no simulador **Tinkercad**, garantindo a integridade do código e das conexões. Em seguida, o projeto foi integralmente construído no mundo físico utilizando componentes reais em uma placa Arduino.
 
